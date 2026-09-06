@@ -1,0 +1,8 @@
+[
+  {"id":"DL-1042","account":"Northstar Health","owner":"Maya Chen","amount":720000,"discount_pct":32,"gross_margin_pct":17,"days_in_stage":52,"payment_terms_days":90,"account_health":58,"open_support_cases":3,"product_fit_score":78,"close_probability":62},
+  {"id":"DL-1043","account":"Atlas Retail Group","owner":"Leo Martin","amount":285000,"discount_pct":18,"gross_margin_pct":31,"days_in_stage":14,"payment_terms_days":30,"account_health":82,"open_support_cases":0,"product_fit_score":91,"close_probability":78},
+  {"id":"DL-1044","account":"Keystone Logistics","owner":"Priya Shah","amount":460000,"discount_pct":24,"gross_margin_pct":23,"days_in_stage":33,"payment_terms_days":60,"account_health":63,"open_support_cases":2,"product_fit_score":67,"close_probability":54},
+  {"id":"DL-1045","account":"Meridian Energy","owner":"Noah Williams","amount":980000,"discount_pct":12,"gross_margin_pct":36,"days_in_stage":19,"payment_terms_days":45,"account_health":76,"open_support_cases":1,"product_fit_score":88,"close_probability":71},
+  {"id":"DL-1046","account":"Bluebird Financial","owner":"Sofia Reyes","amount":195000,"discount_pct":35,"gross_margin_pct":12,"days_in_stage":61,"payment_terms_days":90,"account_health":34,"open_support_cases":7,"product_fit_score":43,"close_probability":28}
+]
+

@@ -1,0 +1,2 @@
+"""Sauda deal intelligence application."""
+
